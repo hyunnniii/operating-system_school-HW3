@@ -1,0 +1,4 @@
+﻿  prioity.c
+C:\Users\vicky\source\repos\운영체제3\운영체제3\prioity.c(143,45): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\vicky\source\repos\운영체제3\운영체제3\prioity.c(173,1): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  운영체제3.vcxproj -> C:\Users\vicky\source\repos\운영체제3\x64\Debug\운영체제3.exe
